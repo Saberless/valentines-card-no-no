@@ -53,19 +53,22 @@ const CelebrationScreen = () => {
 
             {/* Success Message */}
             <h1 className="font-script text-4xl md:text-5xl text-primary mb-4 leading-relaxed">
-              I knew you'd say yes!
+              Hah! knew you'd say yes
             </h1>
             
             <p className="font-elegant text-xl text-muted-foreground mb-8">
-              You've made me the happiest person 💕
+              💕
+            <h6>bish</h6> 
             </p>
+
+            
 
             {/* Romantic Image */}
             <div className="relative rounded-2xl overflow-hidden shadow-lg mb-6">
               <img
-                src="https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=600&h=400&fit=crop"
-                alt="Romantic roses"
-                className="w-full h-64 object-cover"
+                src="https://media1.tenor.com/m/sWOt7J9cg3UAAAAd/funny-dogs-cute.gif"
+                alt="gif"
+                className="w-full h-128 object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-primary/20 to-transparent" />
             </div>
